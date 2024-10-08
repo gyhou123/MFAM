@@ -1,10 +1,10 @@
 # MFAM
 ## Introduction
-![这是图片](/image/intro-11.png "Introduction")
-![这是图片](/image/intro-22.png "Introduction")
+![这是图片](/image/intro.png "Introduction")
+![这是图片](/image/intro2.png "Introduction")
 ## Method
-![这是图片](/image/mainv9.png "Method")
+![这是图片](/image/main.png "Method")
 ## Method
-![这是图片](/image/app-2.png "Method")
+![这是图片](/image/method.png "Method")
 ## Experiment
-![这是图片](/image/exp1.png "Experiment")
+![这是图片](/image/exp.png "Experiment")
