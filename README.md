@@ -1,2 +1,10 @@
 # MFAM
-code for 《Enhancing Emotion Recognition in Conversation via Multi-view Feature Alignment and Memorization》, Findings of EMNLP 2023 will be updated soon.
+## Introduction
+![这是图片](/image/intro-11.png "Introduction")
+![这是图片](/image/intro-22.png "Introduction")
+## Method
+![这是图片](/image/mainv9.png "Method")
+## Method
+![这是图片](/image/app-2.png "Method")
+## Experiment
+![这是图片](/image/exp1.png "Experiment")
